@@ -6,6 +6,8 @@ A simple JSON database manager for Python.
 
 ```bash
 pip install libdb
+# or
+pip3 install libdb
 ```
 
 ## Usage
